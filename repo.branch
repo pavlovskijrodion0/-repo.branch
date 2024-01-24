@@ -1,0 +1,4 @@
+  repo.branch(command[1])
+    elif command[0] == 'checkout':
+        repo.checkout(command[1])
+    elif command[0] == 'print':
